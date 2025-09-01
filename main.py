@@ -37,7 +37,7 @@ from keep_alive import keep_alive
 BOT_TOKEN = '8410221542:AAFFa5Si8BmmMaAk18C686jrweJf1Wkavqw'
 
 # List of positive emoji reactions (no text comments)
-positive_emojis = ['❤', '😘', ,👍', '😎', '🥰', '🥳']
+positive_emojis = ['❤', '😘', '👍', '😎', '🥰', '🥳']
  # Logging setup
 logging.basicConfig(
     format='%(asctime)s - %(levelname)s - %(message)s',
