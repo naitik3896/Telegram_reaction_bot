@@ -34,7 +34,7 @@ from keep_alive import keep_alive
 # ===================================================================
 
 # Replace this with your actual bot token from @BotFather
-BOT_TOKEN = '8410221542:AAFFa5Si8BmmMaAk18C686jrweJf1Wkavqw'
+BOT_TOKEN = '8414091784:AAGm3_POIKpjJX8Oi08Mcje62lysuIkryE8'
 
 # List of positive emoji reactions (no text comments)
 positive_emojis = ['❤', '😘', '👍', '😎', '🥰', '🥳']
